@@ -1,0 +1,32 @@
+body {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Gelasio', serif;
+}
+
+.nav a {
+    text-decoration: underline;
+    color: black;
+    border: 1px black solid;
+    padding: 4px;
+}
+
+.nav a:hover {
+    color: gray;
+    border-color: gray;
+}
+
+ul {
+    margin-left: none;
+    text-align: left;
+}
+
+li {
+    list-style: none;
+    margin-left: none;
+    margin-bottom: 
+    padding: 40px, 40px;
+}

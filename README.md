@@ -1,3 +1,3 @@
 # Nirvana Fan Website
 
-open `index.html` in a browser.
+open `index.html` in a browser
