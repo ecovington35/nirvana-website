@@ -3,7 +3,22 @@ body {
     text-align: center;
 }
 
+img {
+    width: 600px;
+}
+
 h1{
     font-family: 'Gelasio', serif;
 }
 
+.nav a {
+    text-decoration: underline;
+    color: black;
+    border: 1px black solid;
+    padding: 4px;
+}
+
+.nav a:hover {
+    color: gray;
+    border-color: gray;
+}
